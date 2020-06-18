@@ -1,0 +1,15 @@
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\bin\Debug\netcoreapp3.1\PicutreViewer.exe
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\bin\Debug\netcoreapp3.1\PicutreViewer.deps.json
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\bin\Debug\netcoreapp3.1\PicutreViewer.runtimeconfig.json
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\bin\Debug\netcoreapp3.1\PicutreViewer.runtimeconfig.dev.json
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\bin\Debug\netcoreapp3.1\PicutreViewer.dll
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\bin\Debug\netcoreapp3.1\PicutreViewer.pdb
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\obj\Debug\netcoreapp3.1\PicutreViewer.csprojAssemblyReference.cache
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\obj\Debug\netcoreapp3.1\PicutreViewer.AssemblyInfoInputs.cache
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\obj\Debug\netcoreapp3.1\PicutreViewer.AssemblyInfo.cs
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\obj\Debug\netcoreapp3.1\PicutreViewer.csproj.CoreCompileInputs.cache
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\obj\Debug\netcoreapp3.1\PicutreViewer.dll
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\obj\Debug\netcoreapp3.1\PicutreViewer.pdb
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\obj\Debug\netcoreapp3.1\PicutreViewer.genruntimeconfig.cache
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\obj\Debug\netcoreapp3.1\PicutreViewer.Form1.resources
+C:\Users\TiMan\source\repos\PicutreViewer\PicutreViewer\obj\Debug\netcoreapp3.1\PicutreViewer.csproj.GenerateResource.cache

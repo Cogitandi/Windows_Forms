@@ -1,0 +1,15 @@
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.exe
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.deps.json
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.runtimeconfig.json
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.runtimeconfig.dev.json
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.dll
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\bin\Debug\netcoreapp3.1\MatchingGame.pdb
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.csprojAssemblyReference.cache
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.csproj.GenerateResource.cache
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.AssemblyInfoInputs.cache
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.AssemblyInfo.cs
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.dll
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.pdb
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.genruntimeconfig.cache
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.MatchingGame.resources
+C:\Users\TiMan\source\repos\WindowsForms\MatchingGame\MatchingGame\obj\Debug\netcoreapp3.1\MatchingGame.csproj.CoreCompileInputs.cache
